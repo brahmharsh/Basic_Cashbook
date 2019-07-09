@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "basic-cashbook",
+    "description": "No description",
+    "slug": "snack-rJ11bJfbH",
+    "privacy": "unlisted",
+    "sdkVersion": "33.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/logo.png",
+    "loading": {
+      "icon": "./assets/icons/logo.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

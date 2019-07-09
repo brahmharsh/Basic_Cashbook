@@ -1,0 +1,22 @@
+{
+  "name": "basic-cashbook",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start"},
+  "dependencies": {
+    "expo": "^33.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "firebase": "6.2.4",
+    "native-base": "2.12.1",
+    "prop-types": ">=15.4.0",
+    "react-native-actionsheet": "2.4.2",
+    "react-native-modal": "11.1.0",
+    "react-native-paper": "2.15.2",
+    "react-native-text-ticker": "0.18.0"
+  }
+}
