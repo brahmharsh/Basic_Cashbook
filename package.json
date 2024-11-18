@@ -11,7 +11,7 @@
     "expo": "^33.0.0",
     "react": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
-    "firebase": "6.2.4",
+    "firebase": "10.9.0",
     "native-base": "2.12.1",
     "prop-types": ">=15.4.0",
     "react-native-actionsheet": "2.4.2",
